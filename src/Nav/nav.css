@@ -1,0 +1,16 @@
+nav{
+    display: flex;
+    align-items: center;
+    height: 70px;
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.3);
+    color: #ffff;
+    
+}
+.meme--img{
+   height: 60px;
+   aspect-ratio: 1/1;
+   border-radius: 50%;
+   margin-left: 10p;
+   margin-right: 10px;
+}
